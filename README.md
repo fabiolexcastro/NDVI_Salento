@@ -1,2 +1,2 @@
-# NDVI_Salento
+# NDVI Salento
 NDVI graphs and maps
